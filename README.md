@@ -1,5 +1,5 @@
-<h2>mTaka Web Api</h2>
- <p>This is a financial service based web api. It includes all the business logics of mTaka-Web-Application. It provides services(api) to different web applications and mobile applications.</p>
+# MF-Web-Api
+ <p>This is a financial service based web api. It includes all the business logics of MF-Web-Application. It provides services(api) to different web applications and mobile applications.</p>
 
 <h2>Covered Business logics</h2>
 	<ul>
